@@ -55,11 +55,6 @@ We combine international expertise with local insight to deliver results that ar
 
 ---
 
-## Stats
-
-![GitHub followers](https://img.shields.io/github/followers/ayak-digital?style=flat-square&label=Followers)
-![Profile views](https://komarev.com/ghpvc/?username=ayak-digital&style=flat-square&color=blue)
-
 ---
 
 <div align="center">
