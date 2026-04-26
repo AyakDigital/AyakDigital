@@ -55,8 +55,6 @@ We combine international expertise with local insight to deliver results that ar
 
 ---
 
----
-
 <div align="center">
 
 **Let's build something real.**
