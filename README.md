@@ -19,7 +19,7 @@
 
 [![Website](https://img.shields.io/badge/ayakdigital.ma-0EA5A4?style=flat-square&logo=googlechrome&logoColor=white)](https://ayakdigital.ma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F3A?style=flat-square&logo=linkedin&logoColor=0EA5A4)](https://www.linkedin.com/company/ayak-digital)
-[![Instagram](https://img.shields.io/badge/Instagram-0B1F3A?style=flat-square&logo=instagram&logoColor=0EA5A4)](https://www.instagram.com/ayakdigital/)
+[![Instagram](https://img.shields.io/badge/Instagram-0B1F3A?style=flat-square&logo=instagram&logoColor=0EA5A4)](https://www.instagram.com/ayak.digital)
 [![Facebook](https://img.shields.io/badge/Facebook-0B1F3A?style=flat-square&logo=facebook&logoColor=0EA5A4)](https://web.facebook.com/profile.php?id=61572105385084)
 
 </div>
